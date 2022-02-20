@@ -1,7 +1,7 @@
 <!--
 **PhonyFrog/PhonyFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-##Discord
+### Discord
 <img scr="https://cdn.discordapp.com/attachments/944857820942184480/944857897320468480/DiscordGitHub.png">
 
 ### More about me
